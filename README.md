@@ -6,25 +6,51 @@
  \___/|_|_| \_/ \___|_|(_) \____| |____/|_|\__,_/___|
 ```
 
-### Hey! I'm Oliver
+### IT & Network Specialist | Barcelona
 
-Building stuff, breaking stuff, learning stuff.
-
-Currently tinkering with my **Raspberry Pi** homelab — running a personal VPN, Telegram bots, and other experiments.
+Building infrastructure, automating systems, solving problems.
 
 ---
 
-#### What I'm working on
+#### Currently
 
-- **[Portfolio](https://olivercdiaz.com)** — My personal site
-- **PiBot** — Telegram bot to manage my Pi remotely
-- **WireGuard VPN** — Personal VPN server with dynamic DNS
+- **Helpdesk Agent** @ IRIUM — Supporting the Department of Education of Catalonia
+- Running a **homelab** on Raspberry Pi with VPN, bots, and self-hosted services
 
 ---
 
-#### Tech I use
+#### Experience
 
-`Python` `Linux` `Bash` `JavaScript` `Docker` `Networking` `Raspberry Pi` `Git`
+| Role | Company | Highlights |
+|------|---------|------------|
+| Helpdesk Agent | IRIUM | L1 support, incident resolution |
+| IT Technician | Netland SL | 8+ hotel networks, -20% internet costs, -25% resolution time |
+| IT Technician | Plasticband | AD & VMware optimization, -10% downtime |
+
+---
+
+#### Tech Stack
+
+**Systems:** `Linux` `Windows Server` `VMware` `Active Directory` `Docker`
+
+**Networking:** `TCP/IP` `DNS` `VPN` `Firewalls` `Routing`
+
+**Dev:** `Python` `Bash` `JavaScript` `MySQL` `Git`
+
+---
+
+#### Certifications
+
+- Cisco CCNA R&S: Introduction to Networks
+- Cisco CCNA R&S: Routing & Switching Essentials
+
+---
+
+#### Projects
+
+- **[PiBot](https://github.com/9olivercdiaz8/portfolio)** — Telegram bot for Pi management
+- **WireGuard VPN** — Personal VPN server with Telegram integration
+- **Cloudflare Tunnel** — Secure API exposure without open ports
 
 ---
 
