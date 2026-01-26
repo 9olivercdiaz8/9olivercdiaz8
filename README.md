@@ -39,6 +39,13 @@ Building infrastructure, automating systems, solving problems.
 
 ---
 
+#### Education
+
+- **IT Systems & Network Administration** (Cybersecurity) — IES Carles Vallbona (2018-2021)
+- **Microcomputer Systems & Networks** — INS Les Salines (2016-2018)
+
+---
+
 #### Certifications
 
 - Cisco CCNA R&S: Introduction to Networks
