@@ -72,4 +72,4 @@ Building infrastructure, automating systems, solving problems.
 
 ---
 
-<sub>"Ship fast, learn faster"</sub>
+<sub>"I don't need a map — I'll build the route"</sub>
