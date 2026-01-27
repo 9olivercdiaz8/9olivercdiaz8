@@ -72,4 +72,4 @@ Building infrastructure, automating systems, solving problems.
 
 ---
 
-<sub>"Time waits for no one"</sub>
+<sub>"Ship fast, learn faster"</sub>
