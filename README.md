@@ -55,12 +55,12 @@ Building infrastructure, automating systems, solving problems.
 
 #### Projects
 
-- **[PiBot](https://github.com/9olivercdiaz8/portfolio)** — Telegram bot for Pi management (WireGuard, Pi-hole v6, DuckDNS)
+- **PiBot** — Telegram bot for Pi management (WireGuard, Pi-hole v6, DuckDNS)
 - **WireGuard VPN** — Personal VPN server with Telegram integration and QR provisioning
 - **Cloudflare Tunnel** — Secure API exposure without open ports
-- **Pi-hole** — Network-wide ad blocker (v6) blocking 600K+ domains across ads, trackers, and malware
+- **Pi-hole** — Network-wide ad blocker (v6) blocking 770K+ domains across ads, trackers, and malware
 
-> `Pi-hole v6` — **600K+ domains blocked** | 13 blocklists | regex wildcard rules | ads, trackers, malware, crypto-mining
+> `Pi-hole v6` — **770K+ domains blocked** | 13 blocklists | regex wildcard rules | ads, trackers, malware, crypto-mining
 
 ---
 
