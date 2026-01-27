@@ -58,6 +58,7 @@ Building infrastructure, automating systems, solving problems.
 - **[PiBot](https://github.com/9olivercdiaz8/portfolio)** — Telegram bot for Pi management
 - **WireGuard VPN** — Personal VPN server with Telegram integration
 - **Cloudflare Tunnel** — Secure API exposure without open ports
+- **Pi-hole** — Network-wide ad blocker at DNS level
 
 ---
 
