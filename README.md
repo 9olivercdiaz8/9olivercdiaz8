@@ -14,7 +14,7 @@ Building infrastructure, automating systems, solving problems.
 
 #### Currently
 
-- **Helpdesk Agent** @ IRIUM — Supporting the Department of Education of Catalonia
+- **Helpdesk Agent** @ IRIUM - Supporting the Department of Education of Catalonia
 - Running a **homelab** on Raspberry Pi with VPN, bots, and self-hosted services
 
 ---
@@ -41,8 +41,8 @@ Building infrastructure, automating systems, solving problems.
 
 #### Education
 
-- **IT Systems & Network Administration** (Cybersecurity) — IES Carles Vallbona (2018-2021)
-- **Microcomputer Systems & Networks** (Middle Grade) — INS Les Salines (2016-2018)
+- **IT Systems & Network Administration** (Cybersecurity) - IES Carles Vallbona (2018-2021)
+- **Microcomputer Systems & Networks** (Middle Grade) - INS Les Salines (2016-2018)
 
 ---
 
@@ -55,12 +55,12 @@ Building infrastructure, automating systems, solving problems.
 
 #### Projects
 
-- **PiBot** — Telegram bot for Pi management (WireGuard, Pi-hole v6, DuckDNS)
-- **WireGuard VPN** — Personal VPN server with Telegram integration and QR provisioning
-- **Cloudflare Tunnel** — Secure API exposure without open ports
-- **Pi-hole** — Network-wide ad blocker (v6) blocking 770K+ domains across ads, trackers, and malware
+- **PiBot** - Telegram bot for Pi management (WireGuard, Pi-hole v6, DuckDNS)
+- **WireGuard VPN** - Personal VPN server with Telegram integration and QR provisioning
+- **Cloudflare Tunnel** - Secure API exposure without open ports
+- **Pi-hole** - Network-wide ad blocker (v6) blocking 770K+ domains across ads, trackers, and malware
 
-> `Pi-hole v6` — **770K+ domains blocked** | 13 blocklists | regex wildcard rules | ads, trackers, malware, crypto-mining
+> `Pi-hole v6` - **770K+ domains blocked** | 13 blocklists | regex wildcard rules | ads, trackers, malware, crypto-mining
 
 ---
 
@@ -72,4 +72,4 @@ Building infrastructure, automating systems, solving problems.
 
 ---
 
-<sub>"I don't need a map — I'll build the route"</sub>
+<sub>"I don't need a map - I'll build the route"</sub>
